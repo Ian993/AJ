@@ -3,7 +3,7 @@
 </p>
 <div align="center">
 
-# RapeSenpai
+# AJ
 **世界上充满了恶意**
 </div>
 
